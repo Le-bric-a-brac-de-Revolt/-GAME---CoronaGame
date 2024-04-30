@@ -21,6 +21,6 @@ Bienvenue dans notre jeu de plateforme passionnant où votre objectif est de sur
 Ce jeu est distribué sous licence propriétaire. Veuillez consulter le fichier LICENSE.md pour plus de détails sur les conditions d'utilisation.
 
 ## Contact
-Si vous avez des questions, des commentaires ou des suggestions, n'hésitez pas à nous contacter à l'adresse suivante : ApiculteursPassionnes@gmail.com
+Si vous avez des questions, des commentaires ou des suggestions, n'hésitez pas à nous contacter à "@Revolt07" sur discord.
 
 Amusez-vous bien et bon jeu!
